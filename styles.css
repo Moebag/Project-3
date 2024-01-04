@@ -146,7 +146,7 @@ footer #m-navbar #ftr-logo {
   width: 15%;
   height: 55%;
 }
-footer #ftr-btn-con {
+footer .footer-content {
   gap: 10px;
   align-items: flex-start;
 }
